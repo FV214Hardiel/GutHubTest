@@ -1,0 +1,8 @@
+D:\Visual Studio 2019\AppRepos\GutHubTest\bin\Debug\GutHubTest.exe.config
+D:\Visual Studio 2019\AppRepos\GutHubTest\bin\Debug\GutHubTest.exe
+D:\Visual Studio 2019\AppRepos\GutHubTest\bin\Debug\GutHubTest.pdb
+D:\Visual Studio 2019\AppRepos\GutHubTest\obj\Debug\GutHubTest.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\AppRepos\GutHubTest\obj\Debug\GutHubTest.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2019\AppRepos\GutHubTest\obj\Debug\GutHubTest.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\AppRepos\GutHubTest\obj\Debug\GutHubTest.exe
+D:\Visual Studio 2019\AppRepos\GutHubTest\obj\Debug\GutHubTest.pdb
