@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace GutHubTest
 {
-    internal class Program
+    internal class Acc2
     {
-        static void Main(string[] args)
+        public Acc2()
         {
-            Console.WriteLine("GITUS ADDUS SECPOND");
-            Console.ReadLine();
+            Console.WriteLine("ADDUS");
         }
     }
 }
